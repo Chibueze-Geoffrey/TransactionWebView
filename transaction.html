@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transaction Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .thead-red {
+            background-color: red;
+            color: white; /* Optional: Change text color to ensure readability */
+        }
+        .custom-table {
+            width: 110%; /* Adjust width as needed */
+            height: 500px; /* Adjust height as needed */
+            table-layout: fixed; /* Ensures the table respects the height */
+            overflow-y: auto; /* Adds scroll if content exceeds height */
+            font-family:Calibri;
+            font:400;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4 text-primary">Transaction Details</h1>
+        <table class="table table-bordered table-bordered custom-table">
+            <thead class="thead-red">
+                <tr>
+                    <th>Date</th>
+                    <th>Description</th>
+                    <th>Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Transaction rows with contextual classes -->
+                <tr class="table-success">
+                    <td>2024-08-01</td>
+                    <td>Deposit</td>
+                    <td>$1000.00</td>
+                </tr>
+                <tr class="table-danger">
+                    <td>2024-08-02</td>
+                    <td>Withdrawal</td>
+                    <td>$500.00</td>
+                </tr>
+                <tr class="table-warning">
+                    <td>2024-08-03</td>
+                    <td>Transfer</td>
+                    <td>$750.00</td>
+                </tr>
+                <tr class="table-primary">
+                    <td>2024-08-04</td>
+                    <td>Deposit</td>
+                    <td>$2000.00</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
