@@ -1067,3 +1067,4 @@ C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-android\resizetizer\sp\values\
 C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-android\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-android\resizetizer\f\OpenSans-Semibold.ttf
 C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-android\resizetizer\A52E68AE06E1868A-files.cache
+C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-android\WEBVIEW.sourcelink.json

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transaction Receipt</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e9ecef; /* Softer background color */
+        }
+
+        .receipt-container {
+            max-width: 600px;
+            margin: 40px auto; /* Center the container with some margin */
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            background-color: #ffffff; /* Slightly off-white background */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .receipt-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+            .receipt-header img {
+                max-height: 50px;
+            }
+
+            .receipt-header h1 {
+                font-size: 20px;
+                color: #007bff;
+                margin: 0;
+            }
+
+        .receipt-body {
+            margin-bottom: 20px;
+        }
+
+            .receipt-body .row {
+                margin-bottom: 10px;
+            }
+
+            .receipt-body .col-4 {
+                font-weight: bold;
+                color: #343a40; /* Darker text color for better readability */
+            }
+
+            .receipt-body .col-8 {
+                color: #495057; /* Subtle text color */
+            }
+
+        .receipt-footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #6c757d;
+            border-top: 1px solid #ddd;
+            padding-top: 10px;
+        }
+
+        .success {
+            color: #28a745; /* More muted green */
+        }
+
+        .danger {
+            color: #dc3545; /* More muted red */
+        }
+    </style>
+</head>
+<body>
+    <div class="container receipt-container">
+        <div class="receipt-header">
+            <!-- OPay Logo -->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/OPay_logo.png" alt="OPay Logo">
+            <!-- Transaction Receipt Title -->
+            <h1>Transaction Receipt</h1>
+        </div>
+        <div class="receipt-body">
+            <div class="row">
+                <div class="col-4">Date:</div>
+                <div class="col-8">2024-08-08</div>
+            </div>
+            <div class="row">
+                <div class="col-4">Transaction ID:</div>
+                <div class="col-8">1234567890</div>
+            </div>
+            <div class="row">
+                <div class="col-4">Description:</div>
+                <div class="col-8">Deposit</div>
+            </div>
+            <div class="row">
+                <div class="col-4">Amount:</div>
+                <div class="col-8 danger">$1,000.00</div>
+            </div>
+            <div class="row">
+                <div class="col-4">Status:</div>
+                <div class="col-8 success">Successful</div>
+            </div>
+        </div>
+        <div class="receipt-footer">
+            <p class="success">Thank you for using OPay!</p>
+        </div>
+    </div>
+</body>
+</html>

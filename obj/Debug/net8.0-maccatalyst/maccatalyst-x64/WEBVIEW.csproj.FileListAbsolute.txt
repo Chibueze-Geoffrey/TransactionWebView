@@ -299,3 +299,4 @@ C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\re
 C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\WEBVIEW.pdb
 C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\WEBVIEW.genruntimeconfig.cache
 C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\WEBVIEW.dll
+C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\WEBVIEW.sourcelink.json

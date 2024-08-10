@@ -30,25 +30,29 @@
     <AppXManifest Include="C:\Users\HP\source\repos\WEBVIEW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-09T13:31:56.845</Modified>
+      <Modified>2024-08-10T04:26:33.049</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-09T12:58:04.637</Modified>
+      <Modified>2024-08-10T04:14:27.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WEBVIEW.runtimeconfig.json">
       <PackagePath>WEBVIEW.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-08T09:16:42.062</Modified>
+      <Modified>2024-08-10T04:06:48.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WEBVIEW.dll">
       <PackagePath>WEBVIEW.dll</PackagePath>
-      <Modified>2024-08-09T13:31:56.088</Modified>
+      <Modified>2024-08-10T04:26:32.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\transaction.html">
+      <PackagePath>transaction.html</PackagePath>
+      <Modified>2024-08-10T05:11:48.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>WEBVIEW.exe</PackagePath>
-      <Modified>2024-08-09T13:31:56.098</Modified>
+      <Modified>2024-08-10T04:26:32.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +60,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:23.684</Modified>
+      <Modified>2024-08-10T04:05:26.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:23.813</Modified>
+      <Modified>2024-08-10T04:05:26.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:23.951</Modified>
+      <Modified>2024-08-10T04:05:27.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:24.112</Modified>
+      <Modified>2024-08-10T04:05:27.135</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:24.934</Modified>
+      <Modified>2024-08-10T04:05:27.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -84,211 +88,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.893</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.893</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.893</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.895</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.492</Modified>
+      <Modified>2024-08-10T04:05:32.870</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.492</Modified>
+      <Modified>2024-08-10T04:05:32.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.492</Modified>
+      <Modified>2024-08-10T04:05:32.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.494</Modified>
+      <Modified>2024-08-10T04:05:32.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.494</Modified>
+      <Modified>2024-08-10T04:05:32.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.493</Modified>
+      <Modified>2024-08-10T04:05:32.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.493</Modified>
+      <Modified>2024-08-10T04:05:32.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.493</Modified>
+      <Modified>2024-08-10T04:05:32.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.495</Modified>
+      <Modified>2024-08-10T04:05:32.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.494</Modified>
+      <Modified>2024-08-10T04:05:32.889</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.494</Modified>
+      <Modified>2024-08-10T04:05:32.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.487</Modified>
+      <Modified>2024-08-10T04:05:32.860</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-08-08T08:49:36.497</Modified>
+      <Modified>2024-08-10T04:05:32.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WEBVIEW.deps.json">
       <PackagePath>WEBVIEW.deps.json</PackagePath>
-      <Modified>2024-08-09T12:58:03.879</Modified>
+      <Modified>2024-08-10T04:14:26.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

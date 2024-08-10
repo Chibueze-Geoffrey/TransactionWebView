@@ -34,6 +34,9 @@
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WEBVIEW.dll">
       <PackagePath>WEBVIEW.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\transaction.html">
+      <PackagePath>transaction.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HP\source\repos\WEBVIEW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>WEBVIEW.exe</PackagePath>
     </AppxPackagedFile>
