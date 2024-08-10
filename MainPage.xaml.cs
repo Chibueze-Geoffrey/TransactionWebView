@@ -1,8 +1,7 @@
 ﻿using Microsoft.Maui.Controls;
-using System.Collections.Generic;
+using System;
 using System.IO;
 using System.Reflection;
-using System.Text;
 
 namespace WEBVIEW
 {
@@ -12,55 +11,39 @@ namespace WEBVIEW
         {
             InitializeComponent();
 
-            // Sample transaction data
-            var transactions = new List<Transaction>
+            var htmlSource = new HtmlWebViewSource
             {
-                new Transaction { Date = "2024-08-05", Description = "Deposit", Amount = 5000 },
-                new Transaction { Date = "2024-08-06", Description = "Withdrawal", Amount = 2000 },
-                new Transaction { Date = "2024-08-07", Description = "Transfer", Amount = 1500 },
-                new Transaction { Date = "2024-08-09", Description = "Transfer", Amount = 11500 }
+                Html = LoadHtmlContent()
             };
 
-            // Generate HTML content
-            string htmlContent = GenerateHtml(transactions);
-
-            // Load HTML content into the WebView
-            TransactionWebView.Source = new HtmlWebViewSource { Html = htmlContent };
+            ReceiptWebView.Source = htmlSource;
         }
 
-        private string GenerateHtml(List<Transaction> transactions)
+        private string LoadHtmlContent()
         {
-            // Read the HTML template from the embedded resource
-            string htmlTemplate = ReadHtmlTemplate("WEBVIEW.transaction.html");
-
-            // Replace the placeholder with transaction data
-            var rows = new StringBuilder();
-            foreach (var transaction in transactions)
+            try
             {
-                rows.Append($"<tr><td>{transaction.Date}</td><td>{transaction.Description}</td><td>{transaction.Amount:C}</td></tr>");
+                // Use a relative path
+                var filePath = Path.Combine(AppContext.BaseDirectory, "transaction.html");
+
+                // Print the file path to the debug console
+                System.Diagnostics.Debug.WriteLine($"Looking for file at: {filePath}");
+
+                if (File.Exists(filePath))
+                {
+                    return File.ReadAllText(filePath);
+                }
+                else
+                {
+                    return "<html><body><h1>File not found</h1></body></html>";
+                }
             }
-
-            // Replace the placeholder in the template with actual rows
-            htmlTemplate = htmlTemplate.Replace("<!-- Transaction rows will be inserted here -->", rows.ToString());
-
-            return htmlTemplate;
-        }
-
-        private string ReadHtmlTemplate(string resourceName)
-        {
-            var assembly = Assembly.GetExecutingAssembly();
-            using (var stream = assembly.GetManifestResourceStream(resourceName))
-            using (var reader = new StreamReader(stream))
+            catch (Exception ex)
             {
-                return reader.ReadToEnd();
+                // Handle any exceptions and print the error message
+                System.Diagnostics.Debug.WriteLine($"Error loading file: {ex.Message}");
+                return "<html><body><h1>Error loading file</h1></body></html>";
             }
         }
-    }
-
-    public class Transaction
-    {
-        public string Date { get; set; }
-        public string Description { get; set; }
-        public decimal Amount { get; set; }
     }
 }
